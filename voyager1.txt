@@ -1,2 +1,5 @@
 Voyager 1:
 Voyager e é uma sonda espacial que possui um disco com dados de sons e imagens da humanidade.
+This exercise maked me understand that in a real project, I should work on a branch tree, and justa after aproved and
+commited, my branch three should be merged, and added to the original file. -This text was made in voyager1
+ branch, and afterwards added, commited and merged to the branch master.
